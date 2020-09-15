@@ -18,8 +18,10 @@ Berikut adalah sumber dari konsep, trik pemrograman, atau kiat menulis yang dipe
     https://reactjsexample.com/a-very-lightweight-accordion-component-in-react/
 2. Contoh penggunaan Bootstrap sederhana :<br/>
     https://github.com/react-bootstrap/code-sandbox-examples/blob/master/README.md
-3. Sebuah contoh kotak dialog File Picker (HTML tag ```<input type="file" />``` )<br />
+3. Sebuah contoh kotak dialog File Picker (HTML tag ```<input type="file" />``` ) (Tidak jadi dipakai)<br />
     https://codepen.io/blacksmoke26/pen/ELOREB
+4. Pustaka Papaparse untuk melakukan pembacaan file CSV pada lingkungan React <br />
+    https://react-papaparse.js.org/
 
 ### Lain-lain
 1. Kiat menulis changelog :<br/>
