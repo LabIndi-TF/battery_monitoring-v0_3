@@ -5,6 +5,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.3] - 2020-09-15
+
+### Added
+- Folder ./backend/standalones/csvLogs yang memuat contoh-contoh file CSV yang bisa dibaca
+- Program mandiri node_csv sebagai pembelajaran pembacaan CSV di node.js
+- Halaman baru : Read CSV (sudah dengan isinya) dan Eng. Unit Setup (belum diisi)
+- Melengkapi komentar-komentar pada program (masih dalam proses, belum selesai)
+
+### Changed
+- Referensi-referensi komponen DOM HTML diganti cara aksesnya menjadi ala React. <br /> 
+    Contohnya ```document.getElementById``` menjadi ```this.<Sebuah nama Ref>.current```.
+- Komponen Selector sekarang melewatkan prop berupa id device terpilih ke dalam ChartComp, dan interaksi update ChartComp didasarkan pada prop ini.
+
 ## [0.2] - 2020-09-09
 
 ### Added
