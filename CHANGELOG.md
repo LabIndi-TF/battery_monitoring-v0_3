@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Referensi-referensi komponen DOM HTML diganti cara aksesnya menjadi ala React. <br /> 
     Contohnya ```document.getElementById``` menjadi ```this.<Sebuah nama Ref>.current```.
 - Komponen Selector sekarang melewatkan prop berupa id device terpilih ke dalam ChartComp, dan interaksi update ChartComp didasarkan pada prop ini.
+- Perubahan pada Entri DAFPUS.md
 
 ## [0.2] - 2020-09-09
 
